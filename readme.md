@@ -1,6 +1,7 @@
 # 创建仓库
 
-* 1:Git本地仓库创建(http://www.cnblogs.com/zhongxinWang/p/4205339.html)
+* 1:Git本地仓库
+[创建](http://www.cnblogs.com/zhongxinWang/p/4205339.html)
 新建文件夹
 Git bash进入
 git init创建
