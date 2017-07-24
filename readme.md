@@ -34,8 +34,8 @@ git remote add origin git@github.com:SherlockConstine/mygit.git
 **address要公开**
 首次提交，先git pull下，修改完代码后，使用git status可以查看文件的差别，使用git add 添加要commit的文件。
 
-* 9:掉线问题(http://www.cnblogs.com/JEckDe/p/5134693.html)
-
+* 9:掉线问题 
+[GitHub教程--上传项目四步法](http://www.cnblogs.com/JEckDe/p/5134693.html)
 git remote add origin git@github.com:yourName/yourRepo.git
 有时候输入这个语句的时候，github可能会"掉线"。会报fatal: remote origin already exists.这个错误。这时只需要输入
 git remote rm origin 再输入上面的代码就可以了
